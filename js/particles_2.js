@@ -122,7 +122,7 @@ particlesJS("particle_sc",
                 "value": 30,
                 "density": {
                     "enable": true,
-                    "value_area": 800
+                    "value_area": 600
                 }
             },
             "color": {
