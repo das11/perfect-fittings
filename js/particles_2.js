@@ -40,7 +40,7 @@ particlesJS("particles-js",
                 }
             },
             "size": {
-                "value": 5,
+                "value": 40,
                 "random": false,
                 "anim": {
                     "enable": true,
@@ -75,7 +75,7 @@ particlesJS("particles-js",
             "detect_on": "canvas",
             "events": {
                 "onhover": {
-                    "enable": true,
+                    "enable": false,
                     "mode": "bubble"
                 },
                 "onclick": {
